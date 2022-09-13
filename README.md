@@ -1,2 +1,1 @@
-# symmetrical-parakeet
-symmetrical-parakeet
+    
